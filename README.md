@@ -31,7 +31,7 @@ https://github.com/ashimapillai1808/Simon-Says-Game/blob/main/image.png?raw=true
 2. Simon will show a sequence of colors. Pay close attention!
 3. Repeat the sequence by clicking the buttons in the correct order.
 4. If you get it right, Simon will add another step to the sequence.
-5. If you make a mistake, the game ends. Try again to beat your high score!
+5. If you make a mistake, the game ends. 
 
 
 
