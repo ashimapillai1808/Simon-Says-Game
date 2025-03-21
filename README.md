@@ -4,7 +4,7 @@
 
 Welcome to my **Simon Says Game** repository! This is a fun and interactive web-based version of the classic memory game, built entirely using **HTML**, **CSS**, and **JavaScript**. Whether you're here to play, explore the code, or learn how it works, you're in the right place!
 
-[Simon Says Game Screenshot]([https://via.placeholder.com/800x400.png?text=Simon+Says+Game+Screenshot](https://github.com/ashimapillai1808/Simon-Says-Game/blob/main/image.png?raw=true))  
+https://github.com/ashimapillai1808/Simon-Says-Game/blob/main/image.png?raw=true 
 
 ## 🎯 **About the Game**
 
