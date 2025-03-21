@@ -41,7 +41,7 @@ Welcome to my **Simon Says Game** repository! This is a fun and interactive web-
    ```
 2. Navigate to the project folder:
    ```bash
-   cd simon-says-game
+   cd Simon-Says-Game
    ```
 3. Open the `index.html` file in your browser:
    ```bash
