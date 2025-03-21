@@ -39,7 +39,7 @@ Welcome to my **Simon Says Game** repository! This is a fun and interactive web-
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-username/simon-says-game.git](https://github.com/ashimapillai1808/Simon-Says-Game.git)
+   git clone (https://github.com/ashimapillai1808/Simon-Says-Game.git)
    ```
 2. Navigate to the project folder:
    ```bash
