@@ -4,8 +4,6 @@
 
 Welcome to my **Simon Says Game** repository! This is a fun and interactive web-based version of the classic memory game, built entirely using **HTML**, **CSS**, and **JavaScript**. Whether you're here to play, explore the code, or learn how it works, you're in the right place!
 
-https://github.com/ashimapillai1808/Simon-Says-Game/blob/main/image.png?raw=true 
-
 ## 🎯 **About the Game**
 
 "Simon Says" is a memory challenge game where players must repeat a sequence of colors and sounds in the correct order. The game starts with a simple pattern, but as you progress, the sequences get longer and more complex. How far can you go before your memory fails you?
